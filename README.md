@@ -1,22 +1,15 @@
-### Hi there 👋
+### Привет 👋
+Меня зовут Екатерина и я начинающий аналитик данных, окончивший курс от Яндекс.Практикуме. Наиболее привлекает продуктовая аналитика в сфере ecom, а также маркетинговая аналитика. На данный момент нахожусь в активном поиске работы и рассматриваю предложения для получения коммерческого опыта. 
 
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)[https://t.me/zavadskayakate]
-[<img align="left" alt="Ekaterina-Zavadskaya | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+### Свяжитесь со мной:
 
-Here are some ideas to get you started:
 <p> <a href="https://t.me/zavadskayakate"><img align="left" height="32" alt="Ekaterina-Zavadskaya | Telegram" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/telegram.svg" />
+</p> 
+<br>
 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 ### Connect with me:: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[telegram]: https://t.me/zavadskayakate
-### Connect with me:
-[<img align="left" height="32" alt="Ekaterina-Zavadskaya | Telegram" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/telegram.svg" />][(https://t.me/zavadskayakate]
-<br />
+###  Языки и инструменты:
+<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" />
+<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/postgresql.svg" />
+<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mysql.svg" />
+<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tableau.svg" />
+<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/microsoftexcel.svg" />
